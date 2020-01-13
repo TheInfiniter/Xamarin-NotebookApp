@@ -10,4 +10,6 @@ namespace RecordApp.Models
         public string Description { get; set; }
         public bool IsImportant { get; set; }
     }
+    //TODO: в зависимости от состояния флажка IsImportant выводится сообщение "Вы уверены?"
+    //TODO: добавить время создания записи
 }

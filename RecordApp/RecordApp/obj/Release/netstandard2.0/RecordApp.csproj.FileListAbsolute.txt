@@ -1,0 +1,14 @@
+D:\Xamarin\RecordApp\RecordApp\RecordApp\bin\Release\netstandard2.0\RecordApp.deps.json
+D:\Xamarin\RecordApp\RecordApp\RecordApp\bin\Release\netstandard2.0\RecordApp.dll
+D:\Xamarin\RecordApp\RecordApp\RecordApp\bin\Release\netstandard2.0\ref\RecordApp.dll
+D:\Xamarin\RecordApp\RecordApp\RecordApp\bin\Release\netstandard2.0\RecordApp.pdb
+D:\Xamarin\RecordApp\RecordApp\RecordApp\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\RecordApp\RecordApp\RecordApp\obj\Release\netstandard2.0\Pages\AddTask.xaml.g.cs
+D:\Xamarin\RecordApp\RecordApp\RecordApp\obj\Release\netstandard2.0\Pages\MainPage.xaml.g.cs
+D:\Xamarin\RecordApp\RecordApp\RecordApp\obj\Release\netstandard2.0\Pages\TaskList.xaml.g.cs
+D:\Xamarin\RecordApp\RecordApp\RecordApp\obj\Release\netstandard2.0\RecordApp.AssemblyInfoInputs.cache
+D:\Xamarin\RecordApp\RecordApp\RecordApp\obj\Release\netstandard2.0\RecordApp.AssemblyInfo.cs
+D:\Xamarin\RecordApp\RecordApp\RecordApp\obj\Release\netstandard2.0\XamlC.stamp
+D:\Xamarin\RecordApp\RecordApp\RecordApp\obj\Release\netstandard2.0\RecordApp.dll
+D:\Xamarin\RecordApp\RecordApp\RecordApp\obj\Release\netstandard2.0\ref\RecordApp.dll
+D:\Xamarin\RecordApp\RecordApp\RecordApp\obj\Release\netstandard2.0\RecordApp.pdb
